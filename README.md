@@ -1,4 +1,4 @@
-## Hi there 👋
+<img alt="Quilxl" src="https://github.com/user-attachments/assets/eda62bc4-c0b9-4c16-83b6-35e1f5ed7c94" />
 
 <!--
 **Quilxl/quilxl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
